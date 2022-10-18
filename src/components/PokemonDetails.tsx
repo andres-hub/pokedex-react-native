@@ -159,8 +159,6 @@ export const PokemonDetails = ({ pokemon }: Props) => {
             style={styles.basicSprite}
           />
         </View>
-
-
       </View>
     </ScrollView>
   )
